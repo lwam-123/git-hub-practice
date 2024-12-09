@@ -6,4 +6,8 @@ public class Main {
     public static void Lwam() {
         System.out.println("i am here");
     }
+public static void Mekdi() {
+        System.out.println("hey lwam teklay");
+    }
+
 }
